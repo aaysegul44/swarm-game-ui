@@ -1,0 +1,10 @@
+tests/*.exe
+tests/*.dll
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+*.csproj
+*.sln
+*.user
